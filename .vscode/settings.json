@@ -1,0 +1,4 @@
+{
+    "solidity.remappings": ["@openzeppelin/contracts/=hardhat/node_modules/@openzeppelin/contracts"],
+    "git.ignoreLimitWarning": true
+}
